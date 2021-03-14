@@ -8,14 +8,6 @@
          "click": true,
          "wePlus": {}
      },
-     {
-          "id": 1,
-         "name": "哆哆",
-         "url": "http://ns.qianvr.com/api.php/provide/vod/at/xml/",
-         "cate": "动漫,4&&喜剧片,5&&动作片,6&&爱情片,7&&科幻片,8&&恐怖片,9&&剧情片,10&&战争片,11&&国产剧,12&&港台剧,13&&日韩剧,14&&欧美剧,15&&惊悚片,25",
-         "click": true,
-         "wePlus": {}
-     },
      { 
      "id": 1, 
      "name": "555资源", 
